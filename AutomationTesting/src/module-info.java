@@ -1,0 +1,3 @@
+module AutomationTesting {
+	requires okio;
+}
